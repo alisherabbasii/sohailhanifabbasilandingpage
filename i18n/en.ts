@@ -11,20 +11,21 @@ export const en = {
 
   // Hero
   hero: {
-    badge: 'Pakistan Army Veteran',
+    badge: 'Technical Professional',
     contactMe: 'Contact Me',
+    readBlogs: 'Read Blogs',
     viewExperience: 'View Experience',
     yearsCount: '25+',
     experienceLabel: 'Experience',
     yearsOfService: 'Years of Service',
   },
 
-  // Military Experience
+  // Professional Experience
   experience: {
-    heading: 'Military',
-    headingHighlight: 'Service',
-    subtitle: 'A distinguished career spanning 25 years in the Pakistan Army\'s EME Department.',
-    badgeMilitary: 'Military Career',
+    heading: 'Professional',
+    headingHighlight: 'Experience',
+    subtitle: 'A versatile technical and professional career spanning 25 years in government service, business operations, and freelance support.',
+    badgeMilitary: 'Professional Career',
   },
 
   // Skills

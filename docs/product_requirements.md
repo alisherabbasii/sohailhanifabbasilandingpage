@@ -1,482 +1,405 @@
 # Product Requirements Document
-# Personal Landing Page – Sohail Hanif Abbasi
+
+# Personal Website – Sohail Hanif Abbasi
 
 ## 1. Project Overview
 
-This project is a modern professional personal landing page for **Sohail Hanif Abbasi**, a Pakistan Army veteran, radar technician, IT skilled professional, welfare worker, and business support specialist currently working in Madinah, Saudi Arabia.
+This project is a modern personal brand website for **Sohail Hanif Abbasi**, a disciplined professional with strong technical skills, business support experience, social welfare involvement, and deep interest in Sufism and spiritual writing.
 
-The website will serve as:
+The website should present him as:
 
-- Personal digital profile
-- Professional portfolio
-- Social credibility platform
-- Welfare activity showcase
-- Contact platform
-- Personal brand presence
+Professional
+Technical problem solver
+Business support specialist
+Social personality
+Welfare contributor
+Sufism writer
 
-The design should communicate:
+Important restriction:
 
-Professionalism  
-Trust  
-Discipline (military background)  
-Technical competence  
-Social responsibility  
-Leadership personality  
+Do NOT include sensitive or deep military technical details. Only high level service mention.
 
----
+Focus more on:
 
-## 2. Objectives
-
-### Primary Goals
-
-- Build a modern personal brand website
-- Highlight military career and technical expertise
-- Showcase professional experience
-- Display welfare activities
-- Establish online credibility
-- Provide contact access
-
-### Secondary Goals
-
-- Create social proof
-- Present leadership personality
-- Showcase international exposure
-- Highlight technical certifications
+Skills
+Professional abilities
+Social work
+Spiritual interests
+Writing
 
 ---
 
-## 3. Target Audience
+## 2. Main Objectives
 
-### Primary Audience
+Primary goals:
 
-- Employers
-- Business owners
-- Professional connections
-- Welfare organizations
+Build professional personal brand
+Show technical skills
+Highlight business support experience
+Show welfare contributions
+Create Sufism writing platform
+Allow future blogging
 
-### Secondary Audience
+Secondary goals:
 
-- Community members
-- Friends & social circle
-- Freelance clients
-- Pakistani community abroad
-
----
-
-## 4. User Persona
-
-### Profile Owner
-
-Name: Sohail Hanif Abbasi  
-Age: 56  
-Origin: Khanspur Ayubia, Abbottabad  
-Current Location: Madinah, Saudi Arabia  
-
-Background:
-
-- Pakistan Army (25 years)
-- EME Department
-- Radar Technician
-- Military Award Holder
-
-Skills:
-
-- Graphic Design
-- MS Excel
-- Data Entry
-- Stock Management
-- Business Support
-- Computer Operations
-
-Other Experience:
-
-- Radar training in China
-- Freelancing experience
-- Business operations assistance
-
-Interests:
-
-- Welfare activities
-- Sufism
-- Leadership & politics
-- Community development
-
-Personality Traits:
-
-Disciplined  
-Technical  
-Helpful  
-Social  
-Respectful  
-Leadership mindset  
+Show leadership personality
+Show international exposure
+Establish credibility
 
 ---
 
-## 5. Website Structure
+## 3. Personal Profile
 
-## Pages / Sections
+Name:
 
-### 1. Hero Section
+Sohail Hanif Abbasi
 
-Purpose:
-Create strong first impression.
+Age:
 
-Content:
+56
 
-- Professional photo
-- Name
-- Title
-- Short tagline
-- Call to action buttons
+Origin:
 
-Example Title:
+Ayubia, Abbottabad Pakistan
 
-Sohail Hanif Abbasi  
-Army Veteran | Radar Technician | Business Support Specialist
+Current Location:
 
-Tagline example:
+Madinah Saudi Arabia
 
-25 Years of Military Excellence | Technical Expertise | Community Leadership
+Education:
+
+Bachelor of Arts (Islamia University Bahawalpur) 
+
+FA (BISE Peshawar) 
+
+Matric (BISE Peshawar) 
+
+Professional Background:
+
+25 years government technical service (high level mention only)
+
+Technical training international exposure.
+
+Business operations support experience.
+
+---
+
+## 4. Skills (IMPORTANT SECTION)
+
+This should be a major section.
+
+Technical Skills:
+
+Graphic Designing
+MS Excel
+Data Entry
+Stock Management
+Computer Operations
+Electronic Hardware Repair 
+Computer Repair 
+Technical troubleshooting 
+
+Professional Skills:
+
+Business Support
+Inventory Management
+Administrative Support
+Documentation
+Technical analysis
+
+Soft Skills:
+
+Leadership 
+Teamwork 
+Responsibility taking 
+Goal oriented mindset 
+
+Languages:
+
+English 
+Urdu 
+Punjabi 
+
+---
+
+## 5. Website Structure (Updated)
+
+## Sections Required
+
+Hero
+About
+Skills (major highlight)
+Professional Experience
+Achievements
+Welfare Work
+Sufism & Spiritual Journey
+Blog System (IMPORTANT)
+Contact
+
+---
+
+## 6. Hero Section
+
+Show:
+
+Photo
+Name
+Professional title
+
+Suggested title:
+
+Technical Professional | Business Support Specialist | Welfare Contributor
+
+Tagline:
+
+Technical Experience | Community Service | Spiritual Learning
 
 Buttons:
 
-Contact Me  
-View Experience  
+Contact
+Read Blogs
 
 ---
 
-### 2. About Section
+## 7. About Section
 
-Purpose:
+Content should include:
 
-Tell personal story.
+Professional journey
+Technical expertise
+Business support experience
+Interest in knowledge
+Interest in Islamic literature
+Interest in Sufism
 
-Content:
+Add:
 
-- Short biography
-- Army career summary
-- Technical background
-- Current work
+Student of Masnavi Maulana Rumi.
+
+---
+
+## 8. Professional Experience
+
+Keep military mention general:
+
+Example:
+
+25 years technical government service.
+
+Do NOT mention:
+
+Departments
+Sensitive technical details.
+
+Focus on:
+
+Technical experience
+Problem solving
+Discipline
+Training
+
+Add:
+
+Freelancing experience
+
+Stock management
+
+Current work:
+
+Business support in Madinah company.
+
+---
+
+## 9. Achievements Section
+
+Include:
+
+Tamgha-e-Khidmat Military 
+
+Commendation cards 
+
+Appreciation certificates 
+
+Display as:
+
+Achievement cards.
+
+---
+
+## 10. Welfare Section
+
+Organization:
+
+Roshan Ayubia
+
+Show:
+
+Mission
+Community welfare
+Social activities
 
 Tone:
 
+Humanitarian.
+
+---
+
+## 11. NEW SECTION — Sufism & Spiritual Journey
+
+Very important.
+
+Include:
+
+Interest in Sufism
+Student of Masnavi Maulana Rumi
+Interest in Islamic literature
+Spiritual learning journey
+
+Include quote style UI.
+
+Show:
+
+Reading Islamic books 
+
+Add writing focus:
+
+Writes about Sufism.
+
+---
+
+## 12. NEW SECTION — Blog System
+
+Important feature.
+
+Purpose:
+
+Allow daily blogs.
+
+Categories:
+
+Sufism
+Spiritual thoughts
+Life lessons
+Islamic learning
+
+Blog features:
+
+Blog list page
+Blog detail page
+Date display
+Title
+Content
+Author
+
+Future ready:
+
+Add CMS capability later.
+
+Initially:
+
+Static blog data file.
+
+---
+
+## 13. Contact Section
+
+Include:
+
+Facebook
+
+Phone (optional)
+
+Email
+
+Contact form:
+
+Name
+Email
+Message
+
+---
+
+## 14. NEW Feature Requirements
+
+Add:
+
+Blog system structure
+
+Blog cards UI
+
+Blog reading page
+
+Add:
+
+Pagination ready structure.
+
+---
+
+## 15. Design Direction (Updated)
+
+Style:
+
 Professional
-Respectful
-Inspirational
-
----
-
-### 3. Military Career Section
-
-Purpose:
-
-Highlight credibility.
-
-Content:
-
-- Pakistan Army service
-- EME department
-- Radar specialization
-- China training
-- Tamgha e Khidmat Military award
-
-Display as:
-
-Timeline or cards.
-
----
-
-### 4. Skills Section
-
-Purpose:
-
-Show technical competence.
-
-Skills:
-
-Graphic Designing  
-MS Excel  
-Data Entry  
-Stock Management  
-Computer Operations  
-Radar Systems  
-Business Support  
-
-Display as:
-
-Progress bars or cards.
-
----
-
-### 5. Professional Experience Section
-
-Purpose:
-
-Show work history.
-
-Include:
-
-Pakistan Army (25 years)
-
-Freelance work:
-
-Stock management  
-Business support  
-
-Current Job:
-
-Company in Madinah  
-Business operations support
-
----
-
-### 6. Welfare Activities Section
-
-Purpose:
-
-Show social personality.
-
-Include:
-
-Roshan Ayubia welfare organization.
-
-Content:
-
-Mission  
-Activities  
-Community work  
-
----
-
-### 7. Achievements Section
-
-Purpose:
-
-Social proof.
-
-Include:
-
-Tamgha e Khidmat Military
-
-China Technical Training
-
-Army Service Completion
-
----
-
-### 8. Interests Section
-
-Purpose:
-
-Human connection.
-
-Include:
-
-Welfare work  
-Sufism  
-Community service  
-Leadership inspiration  
-
----
-
-### 9. Gallery Section (Optional)
-
-Content:
-
-Professional photos  
-Army photos  
-Community work  
-
----
-
-### 10. Contact Section
-
-Include:
-
-Facebook link  
-Email (optional)
-WhatsApp (optional)
-
-Contact Form:
-
-Name  
-Email  
-Message  
-
----
-
-### 11. Footer
-
-Include:
-
-Name  
-Copyright  
-Social links  
-
----
-
-## 6. Features
-
-### Core Features
-
-Responsive Design  
-Fast Loading  
-SEO Friendly  
-Modern UI  
-Contact Form  
-
-### Optional Features
-
-Dark mode  
-Language toggle (English/Urdu)
-Animations
-Scroll effects
-
----
-
-## 7. Design Requirements
-
-### Style Direction
-
+Spiritual
 Modern
 Minimal
-Professional
-Corporate
-Clean
 
-### Color Palette Suggestion
+Add feeling:
 
-Primary:
+Wisdom
+Trust
+Calmness
 
-#0B3D2E (Military Green)
+Add accent:
 
-Secondary:
-
-#1F2937 (Dark Gray)
-
-Accent:
-
-#C19A6B (Gold – for award theme)
-
-Background:
-
-#F9FAFB
-
-Text:
-
-#111827
+Gold for achievements
+Soft green for spirituality
 
 ---
 
-### Typography
+## 16. NEW UI Sections
 
-Headings:
+Add:
 
-Poppins / Inter
+Quote section:
 
-Body:
+Display Sufi quotes.
 
-Roboto / Open Sans
+Add:
 
----
+Featured blog section.
 
-### UI Style
+Add:
 
-Rounded cards
-Soft shadows
-Gradient highlights
-Professional spacing
-Modern layout grid
+Latest writings.
 
 ---
 
-## 8. Technical Requirements
+## 17. Future Expansion
 
-Framework suggestion:
+Must be ready for:
 
-Next.js OR React
+Daily blog posting
 
-Styling:
+Admin panel
 
-Tailwind CSS
+CMS
 
-Animation:
+Multi language
 
-Framer Motion
-
-Icons:
-
-Lucide Icons
-
-Deployment ready.
+Urdu blog support
 
 ---
 
-## 9. SEO Requirements
-
-Meta Title:
-
-Sohail Hanif Abbasi – Pakistan Army Veteran | Radar Technician | Business Support Specialist
-
-Meta Description:
-
-Professional profile of Sohail Hanif Abbasi, Pakistan Army veteran with 25 years service, radar technician, IT skilled professional and welfare activist.
-
-Keywords:
-
-Pakistan Army Veteran  
-Radar Technician  
-Abbottabad  
-Madinah  
-Business Support  
-Stock Management  
-
----
-
-## 10. Performance Requirements
-
-Mobile optimized
-Load under 3 seconds
-Image optimized
-Lazy loading
-
----
-
-## 11. Content Assets Needed
-
-From client:
-
-Profile photo
-Army photos (optional)
-Award photo
-Welfare photos
-Logo of Roshan Ayubia (if available)
-
----
-
-## 12. Success Criteria
+## 18. Success Criteria
 
 Website must:
 
+Highlight skills
+Highlight personality
+Show writing capability
+Support blogs
 Look modern
-Load fast
-Be mobile friendly
-Clearly show career
-Highlight achievements
-Represent personality
+Be scalable
 
----
-
-## 13. Future Expansion
-
-Possible upgrades:
-
-Blog section
-Project portfolio
-Testimonials
-Case studies
-Video introduction
-
----
-
-END OF PRD
+END

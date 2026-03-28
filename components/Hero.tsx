@@ -40,10 +40,10 @@ export default function Hero() {
               {t.hero.contactMe} <ArrowRight size={20} />
             </a>
             <a
-              href="#experience"
+              href="/blog"
               className="px-8 py-4 border-2 border-primary/20 text-primary rounded-xl font-bold flex items-center gap-2 hover:bg-primary/5 transition-all"
             >
-              {t.hero.viewExperience} <Download size={20} />
+              {t.hero.readBlogs} <ArrowRight size={20} />
             </a>
           </div>
         </motion.div>

@@ -13,20 +13,21 @@ export const ur: Translations = {
 
   // Hero
   hero: {
-    badge: 'پاک فوج کے سابق فوجی',
+    badge: 'پیشہ ور تکنیکی ماہر',
     contactMe: 'رابطہ کریں',
+    readBlogs: 'بلاگز پڑھیں',
     viewExperience: 'تجربہ دیکھیں',
     yearsCount: '25+',
     experienceLabel: 'تجربہ',
     yearsOfService: 'سالوں کی خدمات',
   },
 
-  // Military Experience
+  // Professional Experience
   experience: {
-    heading: 'فوجی',
-    headingHighlight: 'خدمات',
-    subtitle: 'پاک فوج کے ای ایم ای ڈیپارٹمنٹ میں 25 سال کی ممتاز خدمات۔',
-    badgeMilitary: 'فوجی کیریئر',
+    heading: 'پیشہ ورانہ',
+    headingHighlight: 'تجربہ',
+    subtitle: 'حکومتی خدمات، کاروباری کارروائیوں، اور فری لانس سپورٹ میں 25 سال پر محیط ایک ورسٹائل تکنیکی اور پیشہ ورانہ کیریئر۔',
+    badgeMilitary: 'پیشہ ورانہ کیریئر',
   },
 
   // Skills

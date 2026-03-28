@@ -11,7 +11,7 @@ export interface Experience {
   organization: string;
   duration: string;
   description: string;
-  category: "Military" | "Professional";
+  category: "Professional";
 }
 
 export interface Achievement {
@@ -28,28 +28,33 @@ export interface Testimonial {
 
 export const profileData = {
   name: "Sohail Hanif Abbasi",
-  title: "Army Veteran | Radar Technician | Business Support Specialist",
-  tagline: "25 Years of Military Excellence | Technical Expertise | Community Leadership",
+  title: "Technical Professional | Business Support Specialist | Welfare Contributor",
+  tagline: "Technical Experience | Community Service | Spiritual Learning",
   location: "Madinah, Saudi Arabia (Origin: Khanspur Ayubia, Abbottabad)",
-  bio: "A Pakistan Army veteran with 25 years of distinguished service in the EME Department. Specialized as a Radar Technician with international training in China and recipient of the Tamgha-e-Khidmat military award. Currently leveraging technical discipline and IT skills in business support and operations in Madinah, Saudi Arabia. Dedicated to community welfare through the Roshan Ayubia organization.",
+  bio: "A disciplined professional with 25 years of technical government service. Specialized as a technical problem solver with international training exposure in China and recipient of the Tamgha-e-Khidmat. Currently leveraging technical discipline and IT skills in business operations support in Madinah, Saudi Arabia. Dedicated to community welfare through the Roshan Ayubia organization, and deeply interested in Sufism and spiritual writing.",
 
   skills: [
-    { name: "Radar Systems", icon: Radio, level: 95 },
-    { name: "Graphic Design", icon: LayoutDashboard, level: 85 },
+    { name: "Graphic Designing", icon: LayoutDashboard, level: 85 },
     { name: "MS Excel", icon: FileSpreadsheet, level: 90 },
     { name: "Data Entry", icon: Database, level: 95 },
     { name: "Stock Management", icon: Shield, level: 85 },
     { name: "Computer Operations", icon: Monitor, level: 90 },
+    { name: "Electronic Hardware Repair", icon: Radio, level: 95 },
+    { name: "Computer Repair", icon: Monitor, level: 90 },
+    { name: "Technical troubleshooting", icon: Briefcase, level: 85 },
     { name: "Business Support", icon: Briefcase, level: 85 },
+    { name: "Inventory Management", icon: Shield, level: 85 },
+    { name: "Administrative Support", icon: Briefcase, level: 85 },
+    { name: "Documentation", icon: FileSpreadsheet, level: 90 },
   ],
 
   experience: [
     {
-      title: "Radar Technician / Senior NCO",
-      organization: "Pakistan Army (EME Department)",
+      title: "Senior Technical Professional",
+      organization: "Government Service",
       duration: "25 Years",
-      description: "Served with distinction in the Electrical and Mechanical Engineering department. Specialized in radar systems maintenance and operation. Received advanced technical training in China. Awarded Tamgha-e-Khidmat for exemplary service.",
-      category: "Military"
+      description: "Served with distinction in a 25-year technical role. Specialized in hardware systems and operational troubleshooting. Received advanced technical training in China. Awarded Tamgha-e-Khidmat for exemplary technical service and discipline.",
+      category: "Professional"
     },
     {
       title: "Business Operations Support",
@@ -62,7 +67,7 @@ export const profileData = {
       title: "Freelance Business Support",
       organization: "Self-Employed",
       duration: "Various",
-      description: "Assisting with data entry, Excel automation, and graphic design for various clients.",
+      description: "Assisting with data entry, Excel automation, stock management, and graphic design for various clients.",
       category: "Professional"
     }
   ],
@@ -90,6 +95,22 @@ export const profileData = {
     mission: "Community Empowerment & Welfare",
     description: "Leading and supporting community development initiatives in the Ayubia region, focusing on social responsibility and local support.",
     impact: "Active community engagement, local welfare projects, and leadership in social causes."
+  },
+
+  sufism: {
+    interest: "Deeply interested in Sufism and spiritual writing.",
+    student: "Student of Masnavi Maulana Rumi",
+    focus: "Reading Islamic literature and writing about Sufism.",
+    quotes: [
+      {
+        text: "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself.",
+        author: "Rumi"
+      },
+      {
+        text: "The wound is the place where the Light enters you.",
+        author: "Rumi"
+      }
+    ]
   },
 
   socials: {

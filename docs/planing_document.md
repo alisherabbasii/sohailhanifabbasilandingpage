@@ -1,401 +1,167 @@
 # Development Planning Document
-# Sohail Hanif Abbasi Landing Page
 
-## 1. Development Strategy
+# Updated Architecture
 
-Approach:
+## Major Change
 
-Component driven development.
+Website now includes blog system.
 
-Architecture:
+Focus shift:
 
-Single page landing structure.
-
-Method:
-
-AI assisted boilerplate generation via Antigravity Context 7.
+Less military
+More skills
+More writing
+More spirituality
 
 ---
 
-## 2. Tech Stack
+## New Components Required
 
-Frontend:
+Add:
 
-React / Next.js
-
-Styling:
-
-Tailwind CSS
-
-Animation:
-
-Framer Motion
-
-Icons:
-
-Lucide
-
-Forms:
-
-React Hook Form
-
-Deployment:
-
-Vercel / Netlify
+BlogSection.jsx
+BlogCard.jsx
+BlogPage.jsx
+BlogData.js
+QuoteSection.jsx
 
 ---
 
-## 3. Folder Structure
+## Updated Folder Structure
 
-/src
+src/
 
-/components
+components/
 
-Hero.jsx  
-About.jsx  
-Experience.jsx  
-Skills.jsx  
-Achievements.jsx  
-Welfare.jsx  
-Contact.jsx  
-Footer.jsx  
+Hero.jsx
+About.jsx
+Skills.jsx
+Experience.jsx
+Achievements.jsx
+Welfare.jsx
+Sufism.jsx
+BlogSection.jsx
+BlogCard.jsx
+Contact.jsx
+Footer.jsx
 
-/pages
+data/
 
-index.jsx
+profileData.js
+skillsData.js
+blogData.js
 
-/assets
+pages/
 
-/images
-
-/profile.jpg
-
-/styles
-
-globals.css
-
----
-
-## 4. Component Breakdown
-
-## Hero Component
-
-Contains:
-
-Photo
-Name
-Tagline
-CTA buttons
-
-Props:
-
-name
-title
-image
-tagline
+blog/
+[slug].jsx
 
 ---
 
-## About Component
+## Blog Data Structure
 
-Contains:
+Example:
 
-Bio paragraph.
+const blogs = [
 
-Props:
+{
 
-description
+title:
 
----
+"Lessons from Masnavi",
 
-## Experience Component
+date:
 
-Timeline cards.
+"2026-01-10",
 
-Props:
+category:
 
-title
-organization
-duration
-description
+"Sufism",
 
----
+excerpt:
 
-## Skills Component
+Short preview text,
 
-Skill cards.
+content:
 
-Props:
-
-skill name
-level
-
----
-
-## Achievements Component
-
-Award cards.
-
-Props:
-
-title
-issuer
-description
-
----
-
-## Welfare Component
-
-Organization description.
-
-Props:
-
-organization name
-mission
-description
-
----
-
-## Contact Component
-
-Form fields:
-
-Name
-Email
-Message
-
-Integrate:
-
-Form submission handler.
-
----
-
-## Footer Component
-
-Basic info.
-
-Props:
-
-name
-year
-social links
-
----
-
-## 5. Development Phases
-
-### Phase 1 – Setup
-
-Initialize project
-Install dependencies
-Configure Tailwind
-
-### Phase 2 – Layout
-
-Create base layout
-Navbar
-Sections structure
-
-### Phase 3 – Components
-
-Build:
-
-Hero
-About
-Experience
-Skills
-Achievements
-Welfare
-Contact
-
-### Phase 4 – Styling
-
-Apply:
-
-Colors
-Typography
-Spacing
-Responsive rules
-
-### Phase 5 – Content Integration
-
-Insert:
-
-Bio
-Experience
-Skills
-Awards
-Links
-
-### Phase 6 – Optimization
-
-Image optimization
-SEO tags
-Performance checks
-
-### Phase 7 – Deployment
-
-Build production version.
-Deploy hosting.
-
----
-
-## 6. UI/UX Guidelines
-
-Spacing:
-
-8px grid system.
-
-Max width:
-
-1200px container.
-
-Section padding:
-
-80px desktop
-40px mobile
-
-Card radius:
-
-12px
-
-Shadow:
-
-Soft shadow.
-
-Hover:
-
-Subtle animation.
-
----
-
-## 7. Responsive Breakpoints
-
-Mobile:
-
-640px
-
-Tablet:
-
-768px
-
-Laptop:
-
-1024px
-
-Desktop:
-
-1280px
-
----
-
-## 8. Animation Plan
-
-Hero:
-
-Fade in
-
-Cards:
-
-Slide up
-
-Buttons:
-
-Hover scale
-
-Scrolling:
-
-Smooth scroll.
-
----
-
-## 9. Data Model
-
-Example data structure:
-const profile = {
-
-name: "Sohail Hanif Abbasi",
-
-title: "Army Veteran",
-
-location: "Madinah",
-
-experienceYears: 25,
-
-skills: [
-
-"MS Excel",
-"Graphic Design",
-"Data Entry",
-"Stock Management"
-
-]
+Full article text
 
 }
 
----
-
-## 10. Risks
-
-Possible issues:
-
-Missing photos
-Incomplete data
-Slow images
-
-Mitigation:
-
-Use placeholders.
-Optimize images.
-Keep modular content.
+]
 
 ---
 
-## 11. AI Generation Instructions (Important)
+## Blog Features Phase 1
 
-Antigravity should:
+Static data.
 
-Generate modular components
-Use Tailwind
-Use clean architecture
-Use reusable components
-Follow modern landing page patterns
+Phase 2:
 
-Avoid:
+Markdown blogs.
 
-Inline styling
-Messy structure
-Large components
+Phase 3:
 
-Must include:
-
-Reusable section components
-Clean props structure
-Responsive design
+CMS.
 
 ---
 
-## 12. Definition of Done
+## New Development Phases
 
-Project complete when:
+Phase 1:
 
-All sections implemented
-Responsive working
-Contact form functional
-SEO tags added
-Images optimized
-Deployed successfully
+Update structure.
 
+Phase 2:
 
+Add skills UI emphasis.
 
-## 13. Future Improvements
+Phase 3:
 
-Add testimonials.
-Add blog.
-Add Urdu version.
-Add admin panel.
-Add CMS.
+Add Sufism section.
+
+Phase 4:
+
+Add blog system.
+
+Phase 5:
+
+Style refinement.
 
 ---
+
+## New UI Rules
+
+Skills must be most visible section.
+
+Blog must appear before contact.
+
+Sufism section must feel calm.
+
+Use:
+
+Soft gradients.
+
+---
+
+## Animation Additions
+
+Blog cards hover.
+
+Quote fade animation.
+
+---
+
+## AI Instructions Update
+
+Antigravity must:
+
+Prioritize skills section.
+
+Create blog architecture.
+
+Create reusable blog components.
+
+Prepare future CMS integration.
 
 END

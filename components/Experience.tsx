@@ -5,7 +5,7 @@ import { profileData } from '@/data/profileData';
 import { Radio, Award, GraduationCap, Calendar } from 'lucide-react';
 import { useLanguage } from '@/i18n/LanguageContext';
 
-export default function MilitaryExperience() {
+export default function Experience() {
   const experiences = profileData.experience;
   const { t } = useLanguage();
 
